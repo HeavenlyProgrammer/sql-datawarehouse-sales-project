@@ -14,6 +14,7 @@ WARNING:
 */
 
 USE master;
+GO
 
 -- Create Database Warehouse
 CREATE DATABASE DataWarehouse;
