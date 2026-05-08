@@ -15,10 +15,12 @@ WARNING:
 
 USE master;
 
+-- Create Database Warehouse
 CREATE DATABASE DataWarehouse;
 
 USE DataWarehouse;
 
+-- Create the Schemas
 CREATE SCHEMA bronze;
 GO
 
